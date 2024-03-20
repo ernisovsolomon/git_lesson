@@ -1,6 +1,7 @@
 # Homeworks
 PYTHON BEGINNER
 
+TEST 01.py - Экзамен 1
 Homework 01.py - Задание 1 | Python Starter
 Homework 02.py - Задание 2 | Переменные и тип данных int, boolean
 Homework 03.py - Задание 3 | Типы данных (str, list)
