@@ -1,3 +1,3 @@
-# git_lesson
+# Homeworks
 First Git Project
 ''' новые поправки для отправки '''
